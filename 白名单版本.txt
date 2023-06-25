@@ -9,7 +9,7 @@ CoreGui:SetCore("SendNotification", {
 
 local a=tostring(game.Players.LocalPlayer.Character);
 
-if a=="DpzTmq"then
+if a=="pzTmq"then
 _G.whitelist=true
 elseif a=="ghcdghdv5"then
 _G.whitelist=true
